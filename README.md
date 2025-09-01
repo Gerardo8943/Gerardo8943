@@ -46,7 +46,7 @@
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,php,angular,laravel"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,php,angular,laravel"/> | <img src="https://skillicons.dev/icons?i=vscode,sublime,github"/> |
 
 </div>
 
