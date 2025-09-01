@@ -24,7 +24,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture><div/>
 
-<br>
+
 
 - :school: I am a computer engineer and `Junior` programmer, graduated from the National Experimental University of Greater Caracas.
 - :trophy: Help create `4` functional projects.
