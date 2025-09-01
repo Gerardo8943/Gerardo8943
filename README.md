@@ -29,7 +29,7 @@
 <br><br>
 
 - :school: I am a computer engineer and `Junior` programmer, graduated from the National Experimental University of Greater Caracas.
-- :trophy: collaborate on 4x `ACPC` functional projects.
+- :trophy: Help create  `ACPC` functional projects.
 - :technologist: I love using Software and programming as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
