@@ -63,6 +63,7 @@
 <br>
 
 <div align="Center">
+<h1>Contacts</h1>
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
