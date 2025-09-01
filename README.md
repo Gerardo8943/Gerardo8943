@@ -20,4 +20,21 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="70" height="50" />
 </div>
 
+<br><br>
+
+🔭 I’m currently working on **Magento 2**
+
+🌱 I’m currently learning **Magento 2 cloud**
+
+👨‍💻 All of my projects are available at [Supravat's works](https://supravatm.github.io/projects)
+
+💬 Ask me about **PHP, Magento, LAMP**
+
+📫 How to reach me **supravt.com@gmail.com**
+
+📄 Know about my experiences [my experiences](http://supravatm.github.io)
+
+⚡ Fun fact **I think I'm funny**
+
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
