@@ -1,23 +1,11 @@
+<h1 align="center"><b>Hola, soy Gerardo Salazar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h1 align="center"><b>Hi , I'm Gerardo Salazar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+developer+from+Caracas,+Venezuela.;Computer+engineer+and+framework+experience;Always+active+in+learning+and+working;Lover+of+technology..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+developer+from+Caracas,+Venezuela.;Ingeniero+en+computacion+con+experiencia+en+frameworks;Siempre+activo+en+aprender+y+trabajar;Apasionado+por+la+tecnologia..<3"></a>
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="70" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="50" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="70" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="70" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,mysql,github,prettier,rest"/>
 </div>
 
 <br>
@@ -28,13 +16,13 @@
 
 <br>
 
-- :school: I am a computer engineer and `Junior` programmer, graduated from the National Experimental University of Greater Caracas.
-- :trophy: Help create `4` functional projects.
-- :technologist: I love using Software and programming as a solution for every `Problem`.
-- :computer:I am a competitive `frontend` and `backend` programmer.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`:boom:.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/gerardo-torres-33b61b2a9/).
+- :school: Soy Ingeniero en Computación y programador `Junior`, egresado de la Universidad Nacional Experimental de la Gran Caracas.
+- :trophy: He contribuido en la creación de `4` proyectos funcionales.
+- :technologist: Me encanta usar el software y la programación como solución para cualquier `problema`.
+- :computer:Soy un programador `frontend` y `backend` competitivo.
+- :student: Actualmente estoy aprendiendo `Ciencias de la Computación` y `Ingeniería de Software`:boom:.
+- :nerd_face: Siempre estoy `aprendiendo cosas nuevas`.
+- :thinking: Estoy abierto a nuevas `oportunidades laborales`, este es [MI CURRÍCULUM](https://www.linkedin.com/in/gerardo-torres-33b61b2a9/).
 
 <br>
 
@@ -42,12 +30,8 @@
 <h1>Skills</h1>
 </div>
 
-<div align="Center">
-
-| Website | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=tailwind,js,react,php,angular,laravel,ts,postgres,mysql"/> | <img src="https://skillicons.dev/icons?i=vscode,sublime,github"/> |
-
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=tailwind,js,react,php,angular,laravel,ts,postgres,mysql,vscode,sublime,github"/>
 </div>
 
 <br>
@@ -55,20 +39,15 @@
 
 <div align="Center">
 <h1>Operating Systems</h1>
-
 <img src="https://skillicons.dev/icons?i=windows,debian,linux"/>
-
 </div>
+
 <br>
 <br>
 
 <div align="Center">
 <h1>Contacts</h1>
-
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:torresanibal388@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/gerardo3w333"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎   |
-
+| <a href="mailto:torresanibal388@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/gerardo3w333"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎   |
 </div>
-
-
