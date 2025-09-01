@@ -59,6 +59,8 @@
 <img src="https://skillicons.dev/icons?i=windows,debian,linux"/>
 
 </div>
+<br>
+<br>
 
 <div align="Center">
 
