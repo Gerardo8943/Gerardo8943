@@ -52,12 +52,11 @@
 
 <br>
 <br>
-<br>
 
 <div align="Center">
 <h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+<img src="https://skillicons.dev/icons?i=windows,debian,linux"/>
 
 </div>
 
