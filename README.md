@@ -18,7 +18,7 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="70" height="50" />
 </div>
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="25%" align="right" />
 
 <br>
   
