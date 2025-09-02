@@ -18,6 +18,8 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="70" height="50" />
 </div>
 
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+
 <br>
   
 ## <div align=center><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
