@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="70" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="50" />
 </div>
 
@@ -45,7 +44,7 @@
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=tailwind,js,react,php,angular,laravel,ts,postgres,mysql"/> | <img src="https://skillicons.dev/icons?i=vscode,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=tailwind,js,php,angular,laravel,ts,postgres,mysql"/> | <img src="https://skillicons.dev/icons?i=vscode,sublime,github"/> |
 
 </div>
 
