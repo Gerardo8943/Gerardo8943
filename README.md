@@ -4,7 +4,6 @@
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="70" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="50" />
 </div>
@@ -44,7 +43,7 @@
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=tailwind,js,php,angular,laravel,ts,postgres,mysql,dart"/> | <img src="https://skillicons.dev/icons?i=vscode,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=tailwind,js,php,laravel,postgres,mysql,dart"/> | <img src="https://skillicons.dev/icons?i=vscode,sublime,github"/> |
 
 </div>
 
