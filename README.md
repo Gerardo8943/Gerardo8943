@@ -43,7 +43,7 @@
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=tailwind,js,php,laravel,postgres,mysql"/> | <img src="https://skillicons.dev/icons?i=vscode,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=tailwind,js,php,laravel,postgres,mysql,express"/> | <img src="https://skillicons.dev/icons?i=vscode,sublime,github"/> |
 
 </div>
 
