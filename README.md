@@ -62,6 +62,6 @@
 <div align="Center">
 <h1>Contacts</h1>
 
-<a href="mailto:torresanibal388@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  
+<a href="mailto:torresanibal388@gmail.com"> torresanibal388@gmail.com <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  
 
 </div>
