@@ -59,6 +59,9 @@
 <br>
 <br>
 
+<div align="Center">
+<h1>Contacts</h1>
+
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
 | <a href="mailto:torresanibal388@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/gerardo3w333"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎   |
