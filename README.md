@@ -60,8 +60,8 @@
 <br>
 
 <div align="Center">
-<h1>Contacts</h1>
-
-<a href="mailto:torresanibal388@gmail.com"> torresanibal388@gmail.com <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  
-
+  <h1>📬 Contacto</h1>
+  <a href="mailto:torresanibal388@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
