@@ -3,11 +3,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+developer+from+Venezuela.;Computer+engineer.;Framework+experience.;Always+active+in+learning+and+working.;Lover+of+technology..<3"></a>
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="70" height="50" />&nbsp;&nbsp;<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="70" height="50" />&nbsp;&nbsp;<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="70" height="50" />
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" height="50" />
   <br>
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="prettier" width="70" height="50" />&nbsp;&nbsp;<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" width="70" height="50" />
-</div>
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="70" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="70" height="50" />
+</p>
 
 <br>
   
