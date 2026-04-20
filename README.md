@@ -4,16 +4,14 @@
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="70" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="70" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="70" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="70" height="50" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="70" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="70" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="prettier" width="70" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" width="70" height="50" />
 </div>
 
 
