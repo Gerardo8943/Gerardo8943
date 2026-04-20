@@ -9,7 +9,6 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="70" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="70" height="50" />
 </p>
 
-<br>
   
 ## <div align=center><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
