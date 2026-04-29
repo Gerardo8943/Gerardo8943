@@ -17,7 +17,7 @@
 - :computer:Specializing in both `frontend` and `backend` development
 - :student: I’m currently learning `Computer Science` and `Software Engineering`:boom:.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/gerardo-torres-33b61b2a9/).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/gerardo-salazar-33b61b2a9/).
 
 <br>
 
