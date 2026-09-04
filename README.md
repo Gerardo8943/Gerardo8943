@@ -11,7 +11,7 @@
 
 
 
-- :school: I am a computer engineer and `Junior` programmer, graduated from the National Experimental University of Greater Caracas.
+- :school: I am a computer engineer, graduated from the National Experimental University of Greater Caracas.
 - :trophy: Help create `4` functional projects.
 - :technologist: I love using Software and programming as a solution for every `Problem`.
 - :computer:Specializing in both `frontend` and `backend` development
